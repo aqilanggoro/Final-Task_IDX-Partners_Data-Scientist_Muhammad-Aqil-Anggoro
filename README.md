@@ -1,1 +1,3 @@
-Dataset yang digunakan: Loan Dataset (Data Dictionary)
+Sumber Daya yang Dapat Kamu Gunakan
+Loan Dataset
+Data Dictionary
